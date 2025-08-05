@@ -6,6 +6,11 @@ This is the official implementation for [LERF](https://lerf.io).
 <img src="https://www.lerf.io/data/nerf_render.svg" height="230px">
 </div>
 
+### Docker Env Setup - images
+Alternatively, you can use the official Nerfstudio Docker image:
+`docker pull dromni/nerfstudio:0.3.4`
+You can find more tags and versions on [here](https://hub.docker.com/r/dromni/nerfstudio/tags) 
+
 # Installation
 LERF follows the integration guidelines described [here](https://docs.nerf.studio/en/latest/developer_guides/new_methods.html) for custom methods within Nerfstudio. 
 ### 0. Install Nerfstudio dependencies
